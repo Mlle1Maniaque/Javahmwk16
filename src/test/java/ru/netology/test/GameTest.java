@@ -65,8 +65,4 @@ public class GameTest {
             registeredPlayers.round(player2.getName(), player6.getName());
         });
     }
-
-
-}
-
-
+}g

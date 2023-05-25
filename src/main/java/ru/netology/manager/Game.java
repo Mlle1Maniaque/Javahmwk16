@@ -3,6 +3,7 @@ package ru.netology.manager;
 import ru.netology.game.Player;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 
 public class Game {
     private ArrayList<Player> players = new ArrayList<>();
